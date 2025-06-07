@@ -1,0 +1,4 @@
+web3
+pyqt5
+eth-utils
+requests
